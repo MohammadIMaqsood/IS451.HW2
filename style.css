@@ -53,3 +53,24 @@ img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   margin-top: 20px;
 }
+div {
+  max-width: 800px;
+  text-align: left;
+  background-color: #fff;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+}
+
+h2, h3 {
+  color: #333;
+  text-align: center;
+}
+
+p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
